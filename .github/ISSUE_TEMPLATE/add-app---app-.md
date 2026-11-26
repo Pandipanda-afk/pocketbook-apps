@@ -2,8 +2,9 @@
 name: Add App (.app)
 about: Add an idea for apps for PocketBook e-readers
 title: ''
-labels: ''
+labels: Idea
 assignees: ''
+type: Feature
 
 ---
 
