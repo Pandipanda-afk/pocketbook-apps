@@ -3,7 +3,7 @@ A community-curated list of `.app` applications, games, and utilities for **Pock
 ### How to install a `.app` file on your PocketBook ?
 1. Download the `.app` file of your choice.
 2. Connect your PocketBook e-reader to your computer via USB.
-3. Copy the .app` file into the **`applications`** folder at the root of your e-reader's storage (create a new folder if it doesn't exist)
+3. Copy the `.app` file into the **`applications`** folder at the root of your e-reader's storage (create a new folder if it doesn't exist)
 4. Safely eject your device. The new app will appear in the **Applications** menu on your e-reader.
 ### How to suggest an app ?
 Want to add a missing application to this list ?
